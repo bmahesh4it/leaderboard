@@ -4,7 +4,6 @@
 /public/hot
 /public/storage
 /storage/*.key
-/storage
 /vendor
 .env
 .env.backup
@@ -20,5 +19,5 @@ yarn-error.log
 /.idea
 /.vscode
 .gitattributes
-.composer.lock
 .editorconfig
+/composer.lock
